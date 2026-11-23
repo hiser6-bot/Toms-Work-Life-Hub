@@ -1,0 +1,22 @@
+{
+  "name": "Tom's Work & Life Hub",
+  "short_name": "Work & Life",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e0c10",
+  "theme_color": "#43205b",
+  "description": "Personalized work, family, task, calendar, and Copilot intake hub",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
